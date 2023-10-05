@@ -1,0 +1,62 @@
+* {
+/*     font-family: 'Bowlby One SC', cursive;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Staatliches', cursive; */
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Bowlby One SC', cursive;
+}
+h6, h5, p {
+font-family: 'Exo 2', sans-serif;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
+    display: flex;
+    justify-content: center;
+    padding: 50%;
+}
+.caja { 
+    float:left;
+    margin-left:5px; 
+    margin: 15px;    
+}
+/* Animacion Cards */
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+  font-family: Helvetica, sans-serif;
+  background-color: rgb(168, 131, 202);
+
+.cajados {
+    float:left;
+    margin-left:5px; 
+    margin: 15px;    
+    display:flex;
+    justify-content: center;
+}
+.librop1 {
+    display: flex;
+    justify-content: center;
+}
+.librop2 {
+    display: flex;
+    justify-content: center;
+}
+footer {
+    background-color: rgb(51, 39, 66);
+}
+#footer_social_media {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+#footer_copyright {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
